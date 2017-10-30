@@ -1,4 +1,4 @@
-package com.webarchitecture.assignment.payment.repo;
+package com.webarchitecture.assignment.payment.repository;
 
 import org.springframework.stereotype.Repository;
 
